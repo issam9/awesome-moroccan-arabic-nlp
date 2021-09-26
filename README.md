@@ -9,7 +9,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 
 - [Videos](#videos)
 
-- [Tools](#tools)
+- [Datasets](#datasets)
 
 ---
 
