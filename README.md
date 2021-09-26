@@ -5,7 +5,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 
 - [Papers](#papers)
 
-- [Articles](#articles)
+- [Blog Posts](#blog-posts)
 
 - [Videos](#videos)
 
@@ -14,9 +14,10 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 ---
 
 ## Papers
-
-## Articles
-
+- [An open access NLP dataset for Arabic dialects : Data collection, labeling, and model construction](https://arxiv.org/abs/2102.11000)
+- 
+## Blog Posts
+- [Building a language model for Moroccan Darija using fastai](https://issam9.github.io/ml-blog/2021/08/30/Darija-LM.html)
 ## Videos
 
 ## Datasets
