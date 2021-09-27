@@ -20,7 +20,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 ## Blog Posts
 - [Building a language model for Moroccan Darija using fastai](https://issam9.github.io/ml-blog/2021/08/30/Darija-LM.html)
 ## Videos
-
+[Moroccan Darija Wikipedia: Basics of Natural Language Processing for a Low-Resource Language](https://youtu.be/0UBRCQm9o8M?t=22140): This is a workshop that was presented as part of AMLD Africa 2021.
 ## Datasets
 
 - [Modeling, Simulation and Data Analysis (MSDA) Datasets](https://msda.um6p.ma/msda_datasets): Contains a dataset of 50k tweets labeled for sentiment analysis, topic detection and dialect detection as it contains tweets from 5 countries including Morocco.
