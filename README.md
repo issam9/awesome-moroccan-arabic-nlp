@@ -38,6 +38,6 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 
 - [Modeling, Simulation and Data Analysis (MSDA) Datasets](https://msda.um6p.ma/msda_datasets): Contains a dataset of 50k tweets labeled for sentiment analysis, topic detection and dialect detection as it contains tweets from 5 countries including Morocco.
 - [Darija Open Dataset (DODA)](https://github.com/darija-open-dataset/dataset): An open-source project for building a dataset of Darija-English vocabulary.
-- [DVOICE](https://dvoice.ma/): A project for building a Voice 2 Text dataset which is still in progress, link is to website where you can contribute.
+- [DVOICE](https://dvoice.ma/data): Darija Voice 2 Text dataset.
 - [Darija Wikipedia articles](https://dumps.wikimedia.org/arywiki/20210501/)
 - [Moroccan News and Comments from Hespress](https://www.kaggle.com/tariqmassaoudi/hespress)
