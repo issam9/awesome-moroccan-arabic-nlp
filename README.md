@@ -19,6 +19,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [Moroccan Dialect -Darija- Open Dataset](https://arxiv.org/abs/2103.09687)
 - [Building the Moroccan Darija WordNet (MDW) using Bilingual Resources](https://infoscience.epfl.ch/record/232919?ln=en)
 - [MANorm: A Normalization Dictionary for Moroccan Arabic Dialect Written in Latin Script](https://aclanthology.org/2020.wanlp-1.14/)
+- [Improving Sentiment Analysis of Moroccan Tweets Using Ensemble Learning](https://link.springer.com/chapter/10.1007/978-3-319-96292-4_8)
 
 ---
 
@@ -41,3 +42,4 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [DVOICE](https://dvoice.ma/data): Darija audio dataset, contains audio files and their corresponding text.
 - [Darija Wikipedia articles](https://dumps.wikimedia.org/arywiki/20210501/)
 - [Moroccan News and Comments from Hespress](https://www.kaggle.com/tariqmassaoudi/hespress)
+- [Moroccan Sentiment Analysis corpus](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus)
