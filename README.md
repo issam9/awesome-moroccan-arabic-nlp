@@ -20,6 +20,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [Building the Moroccan Darija WordNet (MDW) using Bilingual Resources](https://infoscience.epfl.ch/record/232919?ln=en)
 - [MANorm: A Normalization Dictionary for Moroccan Arabic Dialect Written in Latin Script](https://aclanthology.org/2020.wanlp-1.14/)
 - [Improving Sentiment Analysis of Moroccan Tweets Using Ensemble Learning](https://link.springer.com/chapter/10.1007/978-3-319-96292-4_8)
+- [MSTD: Moroccan Sentiment Twitter Dataset](https://thesai.org/Publications/ViewPaper?Volume=11&Issue=10&Code=IJACSA&SerialNo=45)
 
 ---
 
