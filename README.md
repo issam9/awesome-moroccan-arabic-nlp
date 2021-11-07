@@ -46,4 +46,4 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [Darija Wikipedia articles](https://dumps.wikimedia.org/arywiki/20210501/)
 - [Moroccan News and Comments from Hespress](https://www.kaggle.com/tariqmassaoudi/hespress)
 - [Moroccan Sentiment Analysis corpus](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus)
-- [ElecMorocco2016](https://github.com/sentiprojects/ElecMorocco2016): Sentiment analysis dataset of Arabic facebook comments about the Moroccan elections of 2016.
+- [ElecMorocco2016](https://github.com/sentiprojects/ElecMorocco2016): A sentiment analysis dataset of Arabic facebook comments about the Moroccan elections of 2016.
