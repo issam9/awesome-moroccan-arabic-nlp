@@ -23,6 +23,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [MSTD: Moroccan Sentiment Twitter Dataset](https://thesai.org/Publications/ViewPaper?Volume=11&Issue=10&Code=IJACSA&SerialNo=45)
 - [Standard and Dialectal Arabic Text Classification for Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-3-030-00856-7_18)
 - [ASA: A framework for Arabic sentiment analysis](https://journals.sagepub.com/doi/abs/10.1177/0165551519849516)
+- [An Arabic-Moroccan Darija Code-Switched Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/341_Paper.pdf)
 
 ---
 
