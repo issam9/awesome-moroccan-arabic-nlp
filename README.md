@@ -11,6 +11,8 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 
 - [Datasets](#datasets)
 
+- [Models](#models)
+
 ---
 
 ## Papers
@@ -24,12 +26,14 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [Standard and Dialectal Arabic Text Classification for Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-3-030-00856-7_18)
 - [ASA: A framework for Arabic sentiment analysis](https://journals.sagepub.com/doi/abs/10.1177/0165551519849516)
 - [An Arabic-Moroccan Darija Code-Switched Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/341_Paper.pdf)
+- [Goud.ma: a News Article Dataset for Summarization in Moroccan Darija](https://openreview.net/forum?id=BMVq5MELb9)
 
 ---
 
 ## Blog Posts
 
 - [Building a language model for Moroccan Darija using fastai](https://issam9.github.io/ml-blog/2021/08/30/Darija-LM.html)
+- [Finetuning DziriBERT for Dialect Detection](https://issam9.github.io/ml-blog/2021/10/19/Finetune-DziriBERT.html)
 
 ---
 
@@ -48,3 +52,12 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [Moroccan News and Comments from Hespress](https://www.kaggle.com/tariqmassaoudi/hespress)
 - [Moroccan Sentiment Analysis corpus](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus)
 - [ElecMorocco2016](https://github.com/sentiprojects/ElecMorocco2016): A sentiment analysis dataset of Arabic facebook comments about the Moroccan elections of 2016.
+- [Goud-sum](https://huggingface.co/datasets/Goud/Goud-sum): A text summarization dataset of 158k examples.
+- [Arabic POS dialect](https://huggingface.co/datasets/arabic_pos_dialect): Dialectal Arabic POS tagging dataset that contains sets of 350 manually segmented and POS tagged tweets for each of 4 dialects: Egyptian, Levantine, Gulf, and Maghrebi.
+
+
+---
+## Models
+- [DarijaBERT](https://huggingface.co/Kamel/DarijaBERT?text=salam+kidayr+%5BMASK%5D): A BERT-base model trained on ~3 Million Darija sequences.
+- [Goud-summarization](https://huggingface.co/Goud): Text summarization models trained on [Goud-sum](https://huggingface.co/datasets/Goud/Goud-sum).
+- [t5-darija-summarization](https://huggingface.co/Kamel/t5-darija-summarization): T5 model for Darija text summarization.
