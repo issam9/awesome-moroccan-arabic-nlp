@@ -27,6 +27,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [ASA: A framework for Arabic sentiment analysis](https://journals.sagepub.com/doi/abs/10.1177/0165551519849516)
 - [An Arabic-Moroccan Darija Code-Switched Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/341_Paper.pdf)
 - [Goud.ma: a News Article Dataset for Summarization in Moroccan Darija](https://openreview.net/forum?id=BMVq5MELb9)
+- [Automatic Text Summarization for Moroccan Arabic Dialect Using an Artificial Intelligence Approach](https://link.springer.com/chapter/10.1007/978-3-031-06458-6_13)
 
 ---
 
