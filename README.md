@@ -28,6 +28,7 @@ A list of Natural Language Processing resources for Moroccan Arabic (Darija)
 - [An Arabic-Moroccan Darija Code-Switched Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/341_Paper.pdf)
 - [Goud.ma: a News Article Dataset for Summarization in Moroccan Darija](https://openreview.net/forum?id=BMVq5MELb9)
 - [Automatic Text Summarization for Moroccan Arabic Dialect Using an Artificial Intelligence Approach](https://link.springer.com/chapter/10.1007/978-3-031-06458-6_13)
+- [Diacritization of Maghrebi Arabic Sub-Dialects](https://arxiv.org/abs/1810.06619)
 
 ---
 
